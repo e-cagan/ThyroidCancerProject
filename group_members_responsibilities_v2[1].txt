@@ -1,0 +1,23 @@
+Group Members and Responsibilities
+
+Name                          ID           Responsibility
+
+Iyad Sayes                    210207315     Mechatronics Engineering
+                                             - Conducted a literature review on the topic
+                                             - Shared tasks with group members
+
+Furqan Abdulrahman            210203306     Electrical and Electronics Engineering
+                                             - Provided dataset for the model
+                                             - Created presentation slides
+
+Emin Çağan Apaydın            220212054     Computer Engineering
+                                             - Model architecture and code implementation
+
+Mustafa Alsaad                200207325     Mechatronics Engineering
+                                             - Project report writing and documentation
+
+Ahmed Abdelmouty              210218369     Software Engineering
+                                             - Model training and configuration
+
+Muhammad Usman Ali Chandio   210204321     Mechanical Engineering
+                                             - Evaluation metrics and testing of model
